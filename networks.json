@@ -551,8 +551,7 @@
       "name": "Wrapped ETH",
       "symbol": "WETH"
     }
-  }
-},
+  },
   "534355": {
     "name": "Vitruveo Mainnet",
     "rpc": "https://rpc.vitruveo.xyz",
