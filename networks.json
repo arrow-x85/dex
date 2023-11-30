@@ -552,4 +552,25 @@
       "symbol": "WETH"
     }
   }
+},
+  "534355": {
+    "name": "Vitruveo Mainnet",
+    "rpc": "https://rpc.vitruveo.xyz",
+    "chainId": 534355	,
+    "explorer": "https://explorer.vitruveo.xyz",
+    "color": "#ff00ff",
+    "multicall": "0x87a6417F03E106A05698F18829bB3a40CBC54f61",
+    "storage": "0x2f87D23cd8d788bC9a32E540cdd8253F9b1F54CF",
+    "exstorage": "0xd4a711333C41cC01B005dBE5389BcFb99D4f5d64",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0x8246eb7D32416888aBeB23b1E715ee5A156d3aBe",
+      "name": "Wrapped VIT",
+      "symbol": "WETH"
+    }
+  }
 }
